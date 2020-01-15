@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+
+  ngapp:
+    image: my-ng-proj:dev
+
+    container_name: my-ngapp
+
+    ports:
+       - '80:80'  # expose 80 on host and sent to 80 in container
+
+
+

@@ -43,5 +43,18 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kramercc/ng-app.git"
+  },
+  "keywords": [],
+  "author": "Chris Kramer <kramer.cc@gmail.com> (github.com/kramercc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kramercc/ng-app/issues"
+  },
+  "homepage": "https://github.com/kramercc/ng-app#readme"
 }
